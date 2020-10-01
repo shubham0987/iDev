@@ -5,11 +5,11 @@ session_start();
 
 /* DATABASE CONFIGURATION */
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
-define('DB_DATABASE', 'banana');
-define("BASE_URL", "http://localhost/PHP-Slim-Restful/api/");
-define("SITE_KEY", 'yourSecretKey');
+define('DB_USERNAME', 'shubhams');
+define('DB_PASSWORD', 't)1Qs(Ph*7');
+define('DB_DATABASE', 'shubhams_idev');
+define("BASE_URL", "http://idev.shubhamsaxena.com/api/");
+define("SITE_KEY", 'iDevSecret');
 
 
 function getDB() 
